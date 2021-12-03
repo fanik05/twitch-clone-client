@@ -1,7 +1,5 @@
 const StreamDelete = () => {
-    return (
-        <div>StreamDelete</div>
-    );
+  return <div>StreamDelete</div>;
 };
 
 export default StreamDelete;
